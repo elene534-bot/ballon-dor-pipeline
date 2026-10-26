@@ -1,0 +1,9 @@
+{
+  "name": "ballon-dor-ci-cd",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "build": "echo 'Building project... Done!'",
+    "test": "node app.test.js"
+  }
+}
